@@ -1,7 +1,5 @@
 
 from flask import *
-from jinja2 import TemplateNotFound	
-from time import gmtime, strftime
 import os
 
 

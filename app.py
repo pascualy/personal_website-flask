@@ -1,8 +1,6 @@
 
 from flask import Flask, render_template, request, redirect, url_for
-
 import os
-from werkzeug import secure_filename
 import controllers
 
 
